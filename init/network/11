@@ -1,0 +1,10 @@
+#traceroute slash16.org
+#line 1 is the local IP adress
+#https://ru.wikipedia.org/wiki/Частный_IP-адрес
+#line 2 is the NAT router who's remaping the local IP to a public IP pointing to dc3
+#https://ru.wikipedia.org/wiki/NAT
+#line 3 is our public IP
+#https://ru.wikipedia.org/wiki/IP-адрес
+1 : Local IP
+2 : NAT IP
+3 : Public IP

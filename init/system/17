@@ -1,0 +1,6 @@
+#command that allows you to connect via ssh on the VM (for example)
+#ssh loginonDebian@ip -p Host port id
+#don't forget 'cat /etc/hosts'
+#my localhos - 127.0.0.1
+#ssh k@127.0.0.1 -p 2222
+ssh -p 2222 k@localhost

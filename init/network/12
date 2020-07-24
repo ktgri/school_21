@@ -1,0 +1,5 @@
+#!/bin/sh
+#IP that was assigned to you by dhcp server
+#Dynamic Host Configuration Protocol
+#https://ru.wikipedia.org/wiki/DHCP
+ifconfig en0 | grep "inet " | awk '{print $2}'

@@ -1,0 +1,3 @@
+#!/bin/sh
+#network default shluze in table marshrutisation
+netstat -nr | grep "en0" | grep "default" | awk '{print $2}'

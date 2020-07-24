@@ -1,0 +1,3 @@
+#man ssh
+#command that kills ssh service (in root)
+service ssh stop

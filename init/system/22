@@ -1,0 +1,7 @@
+#add a new local user
+#useradd name
+#useradd -m name = create home dir for name
+#adduser
+#cyberciti.biz/faq/create-a-user-account-on-ubuntu-linux
+#cyberciti.biz/faq/linux-remove-user-command
+adduser

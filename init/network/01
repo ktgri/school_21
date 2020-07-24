@@ -1,0 +1,3 @@
+#!/bin/sh
+#netwrok interfaces only_names
+ifconfig -l

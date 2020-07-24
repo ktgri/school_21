@@ -1,0 +1,11 @@
+#!/bin/sh
+#your rights in dir /etc/passwd
+USER=$1
+pkill -u $USER
+userdel -r $USER
+#delete all user's dir
+userdel $USER
+
+#also:
+#grep -u $USER | while read PID; do sudo kill $PID; done
+#sudo userdel $USER

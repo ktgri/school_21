@@ -1,0 +1,3 @@
+#!/bin/sh
+#find the provider of slash16.org AWSDNS-Amazon Web Service Domain Name System
+whois slash16.org | grep "Server"

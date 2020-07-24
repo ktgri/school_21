@@ -1,0 +1,2 @@
+#identify PID of the SSHD service
+service ssh status | grep "PID:" | awk '{print $3}'

@@ -1,0 +1,5 @@
+#service which makes it possible to run specific tasks following a regular schedule
+#https://www.computerhope.com/unix/ucrontab.htm
+#https://ru.wikipedia.org/wiki/Cron
+cron
+#OR crontab

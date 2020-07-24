@@ -1,0 +1,4 @@
+#all services which are started at boot time and name this kind of services
+#if you want enabled
+#systemctl list-unit-files --type=service | grep "enabled"
+systemctl list-units --type service --all

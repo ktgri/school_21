@@ -1,0 +1,4 @@
+hostname "new_name"
+#su - OR sudo -s
+#exit back to user 
+hostname kitty

@@ -1,0 +1,5 @@
+#in $(ifconfig en0 | grep "inet " | awk '{print $2}')
+#do nslookup $192.168.22.46 | grep "name" | awk '{print $4}'
+#also "hostname -f"
+#it's my Mac
+at-h5.21-school.ru.

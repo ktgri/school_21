@@ -1,0 +1,4 @@
+#determines the state of the SSH service
+#in root
+su -
+service ssh status

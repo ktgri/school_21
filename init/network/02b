@@ -1,0 +1,4 @@
+#!bin/sh
+#network all IP addresses ONE network
+#if you want only IP addresses print second column | awk '{print $2}'
+arp -a

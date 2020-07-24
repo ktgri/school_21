@@ -1,0 +1,4 @@
+#!/bin/sh
+#command that lists the partition tables of drives
+#man "traceroute"
+traceroute slash16.org

@@ -1,0 +1,3 @@
+#!/bin/sh
+#file contains the local DNS entries
+cat /etc/hosts

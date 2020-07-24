@@ -1,0 +1,3 @@
+#!/bin/sh
+#network way to folder, who keeps all keeps all configurations, file "resolv.conf" keeps using IP address of the DNS server you’re using
+cat /etc/resolv.conf

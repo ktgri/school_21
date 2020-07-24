@@ -1,0 +1,4 @@
+#kills the background all command's process
+kill -9
+#don't remember chech (cat 13)
+#OR 'kill -L' - nice table

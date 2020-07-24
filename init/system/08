@@ -1,0 +1,4 @@
+#file contains the RSA keys of systems that are authorized to connect via SSH
+#for create RSA key
+#ssh-keygen
+cat .ssh/id_rsa

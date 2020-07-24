@@ -1,0 +1,4 @@
+#command "uptime" OR "w"
+#time since last booted my system
+uptime -s
+#only time and date

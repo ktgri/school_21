@@ -1,0 +1,3 @@
+#reboots the SSH service
+service ssh restart
+#OR systemctl restart ssh
